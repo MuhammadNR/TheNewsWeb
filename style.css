@@ -28,6 +28,12 @@
   height: 71px;
   top: 24px;
   left: 145px;
+  transition: .6s;
+}
+
+.frame .image:hover{
+  width: 153px;
+  height: 74px;
 }
 
 .frame .text-wrapper {
@@ -130,6 +136,11 @@
   top: 0;
   left: 0;
   object-fit: cover;
+  transition: .6s;
+}
+.frame .img:hover{
+  width: 354px;
+  height: 179px;
 }
 
 .frame .p {
@@ -143,6 +154,12 @@
   font-size: 19px;
   letter-spacing: 0;
   line-height: normal;
+  transition: .6s;
+}
+
+.frame .p:hover{
+  font-size: 19.3px;
+
 }
 
 .frame .text-wrapper-7 {
@@ -191,6 +208,11 @@
   font-size: 19px;
   letter-spacing: 0;
   line-height: normal;
+  transition: .6s;
+}
+
+.frame .text-wrapper-9:hover{
+  font-size: 19.3px;
 }
 
 .frame .img-2 {
@@ -200,6 +222,12 @@
   top: 203px;
   left: 0;
   object-fit: cover;
+  transition: .6s;
+}
+
+.frame .img-2:hover{
+  width: 354px;
+  height: 179px;
 }
 
 .frame .overlap-2 {
@@ -232,6 +260,12 @@
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
+  transition: .4s;
+}
+
+.frame .text-wrapper-10:hover{
+  color: #b71c1c;
+  font-size: 25px;
 }
 
 .frame .overlap-4 {
